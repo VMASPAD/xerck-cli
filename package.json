@@ -1,7 +1,8 @@
 {
   "name": "xerck-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cli for xerck",
+  "homepage": "",
   "main": "index.js",
   "bin": {
     "xerck-cli": "./bin/cli.js"
@@ -9,7 +10,10 @@
   "keywords": [
     "cli",
     "node",
-    "xerck"
+    "xerck",
+    "javascript",
+    "nodejs",
+    "react"
   ],
   "author": "",
   "license": "ISC"
